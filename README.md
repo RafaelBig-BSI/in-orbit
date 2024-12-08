@@ -5,7 +5,7 @@ Back-end da aplicação ``in.orbit`` onde foi desenvolvido com:
   * PostgreSQL
 
 # <img height="40" src="https://user-images.githubusercontent.com/84249945/219471082-bba3510e-ee6d-4a6e-bf78-d7afc692043e.png"/> Requisitos
-  * Possui Node instalado: https://nodejs.org/en
+  * Possuir NodeJS instalado: https://nodejs.org/en
   * Possuir Docker Desktop instalado: https://www.docker.com/products/docker-desktop/
 
 # :hammer: Como utilizar
